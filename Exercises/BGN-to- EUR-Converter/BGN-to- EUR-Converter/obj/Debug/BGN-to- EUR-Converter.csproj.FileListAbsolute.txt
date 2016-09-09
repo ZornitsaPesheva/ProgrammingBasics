@@ -1,0 +1,12 @@
+C:\projects\Csharp\BGN-to- EUR-Converter\BGN-to- EUR-Converter\bin\Debug\BGN-to- EUR-Converter.exe.config
+C:\projects\Csharp\BGN-to- EUR-Converter\BGN-to- EUR-Converter\obj\Debug\BGN-to- EUR-Converter.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\BGN-to- EUR-Converter\BGN-to- EUR-Converter\obj\Debug\BGN_to__EUR_Converter.FormConverter.resources
+C:\projects\Csharp\BGN-to- EUR-Converter\BGN-to- EUR-Converter\obj\Debug\BGN_to__EUR_Converter.Properties.Resources.resources
+C:\projects\Csharp\BGN-to- EUR-Converter\BGN-to- EUR-Converter\obj\Debug\BGN-to- EUR-Converter.csproj.GenerateResource.Cache
+C:\projects\Csharp\BGN-to- EUR-Converter\BGN-to- EUR-Converter\bin\Debug\BGN-to- EUR-Converter.exe
+C:\projects\Csharp\BGN-to- EUR-Converter\BGN-to- EUR-Converter\bin\Debug\BGN-to- EUR-Converter.pdb
+C:\projects\Csharp\BGN-to- EUR-Converter\BGN-to- EUR-Converter\obj\Debug\BGN-to- EUR-Converter.exe
+C:\projects\Csharp\BGN-to- EUR-Converter\BGN-to- EUR-Converter\obj\Debug\BGN-to- EUR-Converter.pdb
+C:\projects\old\Csharp\BGN-to- EUR-Converter\BGN-to- EUR-Converter\bin\Debug\BGN-to- EUR-Converter.exe.config
+C:\projects\old\Csharp\BGN-to- EUR-Converter\BGN-to- EUR-Converter\obj\Debug\BGN-to- EUR-Converter.exe
+C:\projects\old\Csharp\BGN-to- EUR-Converter\BGN-to- EUR-Converter\obj\Debug\BGN-to- EUR-Converter.pdb
