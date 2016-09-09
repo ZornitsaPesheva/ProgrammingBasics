@@ -1,0 +1,6 @@
+C:\projects\Csharp\Exam17.07\test\bin\Debug\test.exe.config
+C:\projects\Csharp\Exam17.07\test\bin\Debug\test.exe
+C:\projects\Csharp\Exam17.07\test\bin\Debug\test.pdb
+C:\projects\Csharp\Exam17.07\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Exam17.07\test\obj\Debug\test.exe
+C:\projects\Csharp\Exam17.07\test\obj\Debug\test.pdb

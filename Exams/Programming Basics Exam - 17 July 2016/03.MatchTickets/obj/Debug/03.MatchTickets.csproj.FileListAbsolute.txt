@@ -1,0 +1,6 @@
+C:\projects\Csharp\Exam17.07\03.MatchTickets\bin\Debug\03.MatchTickets.exe.config
+C:\projects\Csharp\Exam17.07\03.MatchTickets\obj\Debug\03.MatchTickets.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Exam17.07\03.MatchTickets\bin\Debug\03.MatchTickets.exe
+C:\projects\Csharp\Exam17.07\03.MatchTickets\bin\Debug\03.MatchTickets.pdb
+C:\projects\Csharp\Exam17.07\03.MatchTickets\obj\Debug\03.MatchTickets.exe
+C:\projects\Csharp\Exam17.07\03.MatchTickets\obj\Debug\03.MatchTickets.pdb

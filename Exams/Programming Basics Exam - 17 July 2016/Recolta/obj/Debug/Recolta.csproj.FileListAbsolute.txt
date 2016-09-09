@@ -1,0 +1,6 @@
+C:\projects\Csharp\Exam17.07\Recolta\bin\Debug\Recolta.exe.config
+C:\projects\Csharp\Exam17.07\Recolta\bin\Debug\Recolta.exe
+C:\projects\Csharp\Exam17.07\Recolta\bin\Debug\Recolta.pdb
+C:\projects\Csharp\Exam17.07\Recolta\obj\Debug\Recolta.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Exam17.07\Recolta\obj\Debug\Recolta.exe
+C:\projects\Csharp\Exam17.07\Recolta\obj\Debug\Recolta.pdb

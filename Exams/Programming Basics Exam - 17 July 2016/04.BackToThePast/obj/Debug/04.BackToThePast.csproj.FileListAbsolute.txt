@@ -1,0 +1,6 @@
+C:\projects\Csharp\Exam17.07\04.BackToThePast\bin\Debug\04.BackToThePast.exe.config
+C:\projects\Csharp\Exam17.07\04.BackToThePast\bin\Debug\04.BackToThePast.exe
+C:\projects\Csharp\Exam17.07\04.BackToThePast\bin\Debug\04.BackToThePast.pdb
+C:\projects\Csharp\Exam17.07\04.BackToThePast\obj\Debug\04.BackToThePast.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Exam17.07\04.BackToThePast\obj\Debug\04.BackToThePast.exe
+C:\projects\Csharp\Exam17.07\04.BackToThePast\obj\Debug\04.BackToThePast.pdb

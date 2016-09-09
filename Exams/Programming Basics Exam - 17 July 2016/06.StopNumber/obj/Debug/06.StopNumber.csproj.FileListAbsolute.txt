@@ -1,0 +1,6 @@
+C:\projects\Csharp\Exam17.07\06.StopNumber\bin\Debug\06.StopNumber.exe.config
+C:\projects\Csharp\Exam17.07\06.StopNumber\bin\Debug\06.StopNumber.exe
+C:\projects\Csharp\Exam17.07\06.StopNumber\bin\Debug\06.StopNumber.pdb
+C:\projects\Csharp\Exam17.07\06.StopNumber\obj\Debug\06.StopNumber.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Exam17.07\06.StopNumber\obj\Debug\06.StopNumber.exe
+C:\projects\Csharp\Exam17.07\06.StopNumber\obj\Debug\06.StopNumber.pdb

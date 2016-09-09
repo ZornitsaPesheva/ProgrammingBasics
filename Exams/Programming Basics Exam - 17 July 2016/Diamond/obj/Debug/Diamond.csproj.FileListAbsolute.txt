@@ -1,0 +1,6 @@
+C:\projects\Csharp\Exam17.07\Diamond\bin\Debug\Diamond.exe.config
+C:\projects\Csharp\Exam17.07\Diamond\bin\Debug\Diamond.exe
+C:\projects\Csharp\Exam17.07\Diamond\bin\Debug\Diamond.pdb
+C:\projects\Csharp\Exam17.07\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Exam17.07\Diamond\obj\Debug\Diamond.exe
+C:\projects\Csharp\Exam17.07\Diamond\obj\Debug\Diamond.pdb

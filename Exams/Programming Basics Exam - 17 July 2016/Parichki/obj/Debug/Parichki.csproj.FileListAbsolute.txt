@@ -1,0 +1,6 @@
+C:\projects\Csharp\Exam17.07\Parichki\bin\Debug\Parichki.exe.config
+C:\projects\Csharp\Exam17.07\Parichki\bin\Debug\Parichki.exe
+C:\projects\Csharp\Exam17.07\Parichki\bin\Debug\Parichki.pdb
+C:\projects\Csharp\Exam17.07\Parichki\obj\Debug\Parichki.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Exam17.07\Parichki\obj\Debug\Parichki.exe
+C:\projects\Csharp\Exam17.07\Parichki\obj\Debug\Parichki.pdb
