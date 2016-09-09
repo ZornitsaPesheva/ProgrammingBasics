@@ -1,0 +1,5 @@
+C:\projects\Csharp\Simple-Conditions\Speed-Info\bin\Debug\Speed-Info.exe.config
+C:\projects\Csharp\Simple-Conditions\Speed-Info\bin\Debug\Speed-Info.exe
+C:\projects\Csharp\Simple-Conditions\Speed-Info\bin\Debug\Speed-Info.pdb
+C:\projects\Csharp\Simple-Conditions\Speed-Info\obj\Debug\Speed-Info.exe
+C:\projects\Csharp\Simple-Conditions\Speed-Info\obj\Debug\Speed-Info.pdb

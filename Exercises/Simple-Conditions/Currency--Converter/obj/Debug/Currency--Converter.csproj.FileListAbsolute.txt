@@ -1,0 +1,9 @@
+C:\projects\Csharp\Simple-Conditions\Currency--Converter\bin\Debug\Currency--Converter.exe.config
+C:\projects\Csharp\Simple-Conditions\Currency--Converter\bin\Debug\Currency--Converter.exe
+C:\projects\Csharp\Simple-Conditions\Currency--Converter\bin\Debug\Currency--Converter.pdb
+C:\projects\Csharp\Simple-Conditions\Currency--Converter\obj\Debug\Currency--Converter.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Simple-Conditions\Currency--Converter\obj\Debug\Currency__Converter.FormConverter.resources
+C:\projects\Csharp\Simple-Conditions\Currency--Converter\obj\Debug\Currency__Converter.Properties.Resources.resources
+C:\projects\Csharp\Simple-Conditions\Currency--Converter\obj\Debug\Currency--Converter.csproj.GenerateResource.Cache
+C:\projects\Csharp\Simple-Conditions\Currency--Converter\obj\Debug\Currency--Converter.exe
+C:\projects\Csharp\Simple-Conditions\Currency--Converter\obj\Debug\Currency--Converter.pdb

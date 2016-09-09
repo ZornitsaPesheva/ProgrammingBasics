@@ -1,0 +1,6 @@
+C:\projects\Csharp\Simple-Conditions\SpleepyCatTom\bin\Debug\SpleepyCatTom.exe.config
+C:\projects\Csharp\Simple-Conditions\SpleepyCatTom\bin\Debug\SpleepyCatTom.exe
+C:\projects\Csharp\Simple-Conditions\SpleepyCatTom\bin\Debug\SpleepyCatTom.pdb
+C:\projects\Csharp\Simple-Conditions\SpleepyCatTom\obj\Debug\SpleepyCatTom.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Simple-Conditions\SpleepyCatTom\obj\Debug\SpleepyCatTom.exe
+C:\projects\Csharp\Simple-Conditions\SpleepyCatTom\obj\Debug\SpleepyCatTom.pdb

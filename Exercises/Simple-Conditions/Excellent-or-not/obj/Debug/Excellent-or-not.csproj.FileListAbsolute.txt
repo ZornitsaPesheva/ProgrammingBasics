@@ -1,0 +1,6 @@
+C:\projects\Csharp\Simple-Conditions\Excellent-or-not\bin\Debug\Excellent-or-not.exe.config
+C:\projects\Csharp\Simple-Conditions\Excellent-or-not\bin\Debug\Excellent-or-not.exe
+C:\projects\Csharp\Simple-Conditions\Excellent-or-not\bin\Debug\Excellent-or-not.pdb
+C:\projects\Csharp\Simple-Conditions\Excellent-or-not\obj\Debug\Excellent-or-not.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Simple-Conditions\Excellent-or-not\obj\Debug\Excellent-or-not.exe
+C:\projects\Csharp\Simple-Conditions\Excellent-or-not\obj\Debug\Excellent-or-not.pdb

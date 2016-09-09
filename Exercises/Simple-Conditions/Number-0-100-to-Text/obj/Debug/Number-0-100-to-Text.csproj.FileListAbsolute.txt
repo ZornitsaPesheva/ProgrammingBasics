@@ -1,0 +1,6 @@
+C:\projects\Csharp\Simple-Conditions\Number-0-100-to-Text\bin\Debug\Number-0-100-to-Text.exe.config
+C:\projects\Csharp\Simple-Conditions\Number-0-100-to-Text\bin\Debug\Number-0-100-to-Text.exe
+C:\projects\Csharp\Simple-Conditions\Number-0-100-to-Text\bin\Debug\Number-0-100-to-Text.pdb
+C:\projects\Csharp\Simple-Conditions\Number-0-100-to-Text\obj\Debug\Number-0-100-to-Text.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Simple-Conditions\Number-0-100-to-Text\obj\Debug\Number-0-100-to-Text.exe
+C:\projects\Csharp\Simple-Conditions\Number-0-100-to-Text\obj\Debug\Number-0-100-to-Text.pdb

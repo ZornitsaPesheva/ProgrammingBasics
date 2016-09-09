@@ -1,0 +1,5 @@
+C:\projects\Csharp\Simple-Conditions\3-Equal-Numbers\bin\Debug\3-Equal-Numbers.exe.config
+C:\projects\Csharp\Simple-Conditions\3-Equal-Numbers\bin\Debug\3-Equal-Numbers.exe
+C:\projects\Csharp\Simple-Conditions\3-Equal-Numbers\bin\Debug\3-Equal-Numbers.pdb
+C:\projects\Csharp\Simple-Conditions\3-Equal-Numbers\obj\Debug\3-Equal-Numbers.exe
+C:\projects\Csharp\Simple-Conditions\3-Equal-Numbers\obj\Debug\3-Equal-Numbers.pdb

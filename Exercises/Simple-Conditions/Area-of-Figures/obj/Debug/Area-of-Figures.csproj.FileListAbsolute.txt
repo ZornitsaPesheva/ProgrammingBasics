@@ -1,0 +1,5 @@
+C:\projects\Csharp\Simple-Conditions\Area-of-Figures\bin\Debug\Area-of-Figures.exe.config
+C:\projects\Csharp\Simple-Conditions\Area-of-Figures\bin\Debug\Area-of-Figures.exe
+C:\projects\Csharp\Simple-Conditions\Area-of-Figures\bin\Debug\Area-of-Figures.pdb
+C:\projects\Csharp\Simple-Conditions\Area-of-Figures\obj\Debug\Area-of-Figures.exe
+C:\projects\Csharp\Simple-Conditions\Area-of-Figures\obj\Debug\Area-of-Figures.pdb

@@ -1,0 +1,6 @@
+C:\projects\Csharp\Simple-Conditions\bonus-score\bin\Debug\bonus-score.exe.config
+C:\projects\Csharp\Simple-Conditions\bonus-score\bin\Debug\bonus-score.exe
+C:\projects\Csharp\Simple-Conditions\bonus-score\bin\Debug\bonus-score.pdb
+C:\projects\Csharp\Simple-Conditions\bonus-score\obj\Debug\bonus-score.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Simple-Conditions\bonus-score\obj\Debug\bonus-score.exe
+C:\projects\Csharp\Simple-Conditions\bonus-score\obj\Debug\bonus-score.pdb

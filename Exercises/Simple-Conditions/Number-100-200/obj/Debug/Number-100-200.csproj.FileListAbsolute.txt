@@ -1,0 +1,5 @@
+C:\projects\Csharp\Simple-Conditions\Number-100-200\bin\Debug\Number-100-200.exe.config
+C:\projects\Csharp\Simple-Conditions\Number-100-200\bin\Debug\Number-100-200.exe
+C:\projects\Csharp\Simple-Conditions\Number-100-200\bin\Debug\Number-100-200.pdb
+C:\projects\Csharp\Simple-Conditions\Number-100-200\obj\Debug\Number-100-200.exe
+C:\projects\Csharp\Simple-Conditions\Number-100-200\obj\Debug\Number-100-200.pdb

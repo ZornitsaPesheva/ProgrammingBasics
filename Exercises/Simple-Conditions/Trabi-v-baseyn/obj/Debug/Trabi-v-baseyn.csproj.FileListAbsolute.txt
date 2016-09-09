@@ -1,0 +1,6 @@
+C:\projects\Csharp\Simple-Conditions\Trabi-v-baseyn\bin\Debug\Trabi-v-baseyn.exe.config
+C:\projects\Csharp\Simple-Conditions\Trabi-v-baseyn\bin\Debug\Trabi-v-baseyn.exe
+C:\projects\Csharp\Simple-Conditions\Trabi-v-baseyn\bin\Debug\Trabi-v-baseyn.pdb
+C:\projects\Csharp\Simple-Conditions\Trabi-v-baseyn\obj\Debug\Trabi-v-baseyn.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Simple-Conditions\Trabi-v-baseyn\obj\Debug\Trabi-v-baseyn.exe
+C:\projects\Csharp\Simple-Conditions\Trabi-v-baseyn\obj\Debug\Trabi-v-baseyn.pdb

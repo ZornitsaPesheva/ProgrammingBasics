@@ -1,0 +1,6 @@
+C:\projects\Csharp\Simple-Conditions\Excellent-Result\bin\Debug\Excellent-Result.exe.config
+C:\projects\Csharp\Simple-Conditions\Excellent-Result\bin\Debug\Excellent-Result.exe
+C:\projects\Csharp\Simple-Conditions\Excellent-Result\bin\Debug\Excellent-Result.pdb
+C:\projects\Csharp\Simple-Conditions\Excellent-Result\obj\Debug\Excellent-Result.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Simple-Conditions\Excellent-Result\obj\Debug\Excellent-Result.exe
+C:\projects\Csharp\Simple-Conditions\Excellent-Result\obj\Debug\Excellent-Result.pdb

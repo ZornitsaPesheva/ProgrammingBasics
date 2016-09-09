@@ -1,0 +1,1 @@
+C:\projects\Csharp\Simple-Conditions\Greater-Number\bin\Debug\Greater-Number.exe.config

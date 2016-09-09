@@ -1,0 +1,6 @@
+C:\projects\Csharp\Simple-Conditions\Even-or-Odd\bin\Debug\Even-or-Odd.exe.config
+C:\projects\Csharp\Simple-Conditions\Even-or-Odd\bin\Debug\Even-or-Odd.exe
+C:\projects\Csharp\Simple-Conditions\Even-or-Odd\bin\Debug\Even-or-Odd.pdb
+C:\projects\Csharp\Simple-Conditions\Even-or-Odd\obj\Debug\Even-or-Odd.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Simple-Conditions\Even-or-Odd\obj\Debug\Even-or-Odd.exe
+C:\projects\Csharp\Simple-Conditions\Even-or-Odd\obj\Debug\Even-or-Odd.pdb

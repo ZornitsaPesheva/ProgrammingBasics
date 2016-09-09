@@ -1,0 +1,6 @@
+C:\projects\Csharp\Simple-Conditions\Metric-Converter\bin\Debug\Metric-Converter.exe.config
+C:\projects\Csharp\Simple-Conditions\Metric-Converter\bin\Debug\Metric-Converter.exe
+C:\projects\Csharp\Simple-Conditions\Metric-Converter\bin\Debug\Metric-Converter.pdb
+C:\projects\Csharp\Simple-Conditions\Metric-Converter\obj\Debug\Metric-Converter.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Simple-Conditions\Metric-Converter\obj\Debug\Metric-Converter.exe
+C:\projects\Csharp\Simple-Conditions\Metric-Converter\obj\Debug\Metric-Converter.pdb

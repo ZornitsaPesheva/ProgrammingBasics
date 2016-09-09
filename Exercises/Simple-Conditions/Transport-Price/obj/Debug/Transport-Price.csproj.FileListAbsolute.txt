@@ -1,0 +1,6 @@
+C:\projects\Csharp\Simple-Conditions\Transport-Price\bin\Debug\Transport-Price.exe.config
+C:\projects\Csharp\Simple-Conditions\Transport-Price\bin\Debug\Transport-Price.exe
+C:\projects\Csharp\Simple-Conditions\Transport-Price\bin\Debug\Transport-Price.pdb
+C:\projects\Csharp\Simple-Conditions\Transport-Price\obj\Debug\Transport-Price.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Simple-Conditions\Transport-Price\obj\Debug\Transport-Price.exe
+C:\projects\Csharp\Simple-Conditions\Transport-Price\obj\Debug\Transport-Price.pdb

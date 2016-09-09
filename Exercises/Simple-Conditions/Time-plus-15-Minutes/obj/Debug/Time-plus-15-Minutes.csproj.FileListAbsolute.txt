@@ -1,0 +1,6 @@
+C:\projects\Csharp\Simple-Conditions\Time-plus-15-Minutes\bin\Debug\Time-plus-15-Minutes.exe.config
+C:\projects\Csharp\Simple-Conditions\Time-plus-15-Minutes\bin\Debug\Time-plus-15-Minutes.exe
+C:\projects\Csharp\Simple-Conditions\Time-plus-15-Minutes\bin\Debug\Time-plus-15-Minutes.pdb
+C:\projects\Csharp\Simple-Conditions\Time-plus-15-Minutes\obj\Debug\Time-plus-15-Minutes.exe
+C:\projects\Csharp\Simple-Conditions\Time-plus-15-Minutes\obj\Debug\Time-plus-15-Minutes.pdb
+C:\projects\Csharp\Simple-Conditions\Time-plus-15-Minutes\obj\Debug\Time-plus-15-Minutes.csprojResolveAssemblyReference.cache

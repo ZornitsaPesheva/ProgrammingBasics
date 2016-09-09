@@ -1,0 +1,5 @@
+C:\projects\Csharp\Simple-Conditions\Sum-Seconds\bin\Debug\Sum-Seconds.exe.config
+C:\projects\Csharp\Simple-Conditions\Sum-Seconds\bin\Debug\Sum-Seconds.exe
+C:\projects\Csharp\Simple-Conditions\Sum-Seconds\bin\Debug\Sum-Seconds.pdb
+C:\projects\Csharp\Simple-Conditions\Sum-Seconds\obj\Debug\Sum-Seconds.exe
+C:\projects\Csharp\Simple-Conditions\Sum-Seconds\obj\Debug\Sum-Seconds.pdb
