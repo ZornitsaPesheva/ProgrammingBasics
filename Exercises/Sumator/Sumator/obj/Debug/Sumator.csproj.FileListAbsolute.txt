@@ -1,0 +1,12 @@
+C:\projects\Csharp\Sumator\Sumator\bin\Debug\Sumator.exe.config
+C:\projects\Csharp\Sumator\Sumator\bin\Debug\Sumator.exe
+C:\projects\Csharp\Sumator\Sumator\bin\Debug\Sumator.pdb
+C:\projects\Csharp\Sumator\Sumator\obj\Debug\Sumator.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Sumator\Sumator\obj\Debug\Sumator.FormCalculate.resources
+C:\projects\Csharp\Sumator\Sumator\obj\Debug\Sumator.Properties.Resources.resources
+C:\projects\Csharp\Sumator\Sumator\obj\Debug\Sumator.csproj.GenerateResource.Cache
+C:\projects\Csharp\Sumator\Sumator\obj\Debug\Sumator.exe
+C:\projects\Csharp\Sumator\Sumator\obj\Debug\Sumator.pdb
+C:\projects\old\Csharp\Sumator\Sumator\bin\Debug\Sumator.exe.config
+C:\projects\old\Csharp\Sumator\Sumator\obj\Debug\Sumator.exe
+C:\projects\old\Csharp\Sumator\Sumator\obj\Debug\Sumator.pdb
