@@ -1,0 +1,5 @@
+C:\projects\Csharp\Draw-with-Loops\RectangleNxNdtars\bin\Debug\RectangleNxNdtars.exe.config
+C:\projects\Csharp\Draw-with-Loops\RectangleNxNdtars\bin\Debug\RectangleNxNdtars.exe
+C:\projects\Csharp\Draw-with-Loops\RectangleNxNdtars\bin\Debug\RectangleNxNdtars.pdb
+C:\projects\Csharp\Draw-with-Loops\RectangleNxNdtars\obj\Debug\RectangleNxNdtars.exe
+C:\projects\Csharp\Draw-with-Loops\RectangleNxNdtars\obj\Debug\RectangleNxNdtars.pdb

@@ -1,0 +1,6 @@
+C:\projects\Csharp\Draw-with-Loops\House\bin\Debug\House.exe.config
+C:\projects\Csharp\Draw-with-Loops\House\bin\Debug\House.exe
+C:\projects\Csharp\Draw-with-Loops\House\bin\Debug\House.pdb
+C:\projects\Csharp\Draw-with-Loops\House\obj\Debug\House.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Draw-with-Loops\House\obj\Debug\House.exe
+C:\projects\Csharp\Draw-with-Loops\House\obj\Debug\House.pdb

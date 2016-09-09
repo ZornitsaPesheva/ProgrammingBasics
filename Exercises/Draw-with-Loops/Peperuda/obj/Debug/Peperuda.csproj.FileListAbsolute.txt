@@ -1,0 +1,5 @@
+C:\projects\Csharp\Draw-with-Loops\Peperuda\bin\Debug\Peperuda.exe.config
+C:\projects\Csharp\Draw-with-Loops\Peperuda\bin\Debug\Peperuda.exe
+C:\projects\Csharp\Draw-with-Loops\Peperuda\bin\Debug\Peperuda.pdb
+C:\projects\Csharp\Draw-with-Loops\Peperuda\obj\Debug\Peperuda.exe
+C:\projects\Csharp\Draw-with-Loops\Peperuda\obj\Debug\Peperuda.pdb

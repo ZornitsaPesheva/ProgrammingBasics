@@ -1,0 +1,6 @@
+C:\projects\Csharp\Draw-with-Loops\STOP\bin\Debug\STOP.exe.config
+C:\projects\Csharp\Draw-with-Loops\STOP\bin\Debug\STOP.exe
+C:\projects\Csharp\Draw-with-Loops\STOP\bin\Debug\STOP.pdb
+C:\projects\Csharp\Draw-with-Loops\STOP\obj\Debug\STOP.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Draw-with-Loops\STOP\obj\Debug\STOP.exe
+C:\projects\Csharp\Draw-with-Loops\STOP\obj\Debug\STOP.pdb

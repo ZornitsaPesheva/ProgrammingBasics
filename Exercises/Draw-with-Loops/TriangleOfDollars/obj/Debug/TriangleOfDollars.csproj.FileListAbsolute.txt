@@ -1,0 +1,5 @@
+C:\projects\Csharp\Draw-with-Loops\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe.config
+C:\projects\Csharp\Draw-with-Loops\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe
+C:\projects\Csharp\Draw-with-Loops\TriangleOfDollars\bin\Debug\TriangleOfDollars.pdb
+C:\projects\Csharp\Draw-with-Loops\TriangleOfDollars\obj\Debug\TriangleOfDollars.exe
+C:\projects\Csharp\Draw-with-Loops\TriangleOfDollars\obj\Debug\TriangleOfDollars.pdb

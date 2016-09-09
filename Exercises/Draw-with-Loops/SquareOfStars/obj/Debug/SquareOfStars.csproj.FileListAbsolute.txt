@@ -1,0 +1,5 @@
+C:\projects\Csharp\Draw-with-Loops\SquareOfStars\bin\Debug\SquareOfStars.exe.config
+C:\projects\Csharp\Draw-with-Loops\SquareOfStars\bin\Debug\SquareOfStars.exe
+C:\projects\Csharp\Draw-with-Loops\SquareOfStars\bin\Debug\SquareOfStars.pdb
+C:\projects\Csharp\Draw-with-Loops\SquareOfStars\obj\Debug\SquareOfStars.exe
+C:\projects\Csharp\Draw-with-Loops\SquareOfStars\obj\Debug\SquareOfStars.pdb

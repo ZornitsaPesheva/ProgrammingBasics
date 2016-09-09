@@ -1,0 +1,5 @@
+C:\projects\Csharp\Draw-with-Loops\SquareFrame\bin\Debug\SquareFrame.exe.config
+C:\projects\Csharp\Draw-with-Loops\SquareFrame\bin\Debug\SquareFrame.exe
+C:\projects\Csharp\Draw-with-Loops\SquareFrame\bin\Debug\SquareFrame.pdb
+C:\projects\Csharp\Draw-with-Loops\SquareFrame\obj\Debug\SquareFrame.exe
+C:\projects\Csharp\Draw-with-Loops\SquareFrame\obj\Debug\SquareFrame.pdb

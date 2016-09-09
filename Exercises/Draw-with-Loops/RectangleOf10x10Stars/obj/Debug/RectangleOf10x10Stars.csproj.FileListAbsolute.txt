@@ -1,0 +1,5 @@
+C:\projects\Csharp\Draw-with-Loops\RectangleOf10x10Stars\bin\Debug\RectangleOf10x10Stars.exe.config
+C:\projects\Csharp\Draw-with-Loops\RectangleOf10x10Stars\bin\Debug\RectangleOf10x10Stars.exe
+C:\projects\Csharp\Draw-with-Loops\RectangleOf10x10Stars\bin\Debug\RectangleOf10x10Stars.pdb
+C:\projects\Csharp\Draw-with-Loops\RectangleOf10x10Stars\obj\Debug\RectangleOf10x10Stars.exe
+C:\projects\Csharp\Draw-with-Loops\RectangleOf10x10Stars\obj\Debug\RectangleOf10x10Stars.pdb

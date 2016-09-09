@@ -1,0 +1,6 @@
+C:\projects\Csharp\Draw-with-Loops\Rhombusof Stars\bin\Debug\Rhombusof Stars.exe.config
+C:\projects\Csharp\Draw-with-Loops\Rhombusof Stars\bin\Debug\Rhombusof Stars.exe
+C:\projects\Csharp\Draw-with-Loops\Rhombusof Stars\bin\Debug\Rhombusof Stars.pdb
+C:\projects\Csharp\Draw-with-Loops\Rhombusof Stars\obj\Debug\Rhombusof Stars.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Draw-with-Loops\Rhombusof Stars\obj\Debug\Rhombusof Stars.exe
+C:\projects\Csharp\Draw-with-Loops\Rhombusof Stars\obj\Debug\Rhombusof Stars.pdb

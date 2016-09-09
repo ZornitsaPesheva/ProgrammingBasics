@@ -1,0 +1,6 @@
+C:\projects\Csharp\Draw-with-Loops\Sunglasses\bin\Debug\Sunglasses.exe.config
+C:\projects\Csharp\Draw-with-Loops\Sunglasses\bin\Debug\Sunglasses.exe
+C:\projects\Csharp\Draw-with-Loops\Sunglasses\bin\Debug\Sunglasses.pdb
+C:\projects\Csharp\Draw-with-Loops\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Draw-with-Loops\Sunglasses\obj\Debug\Sunglasses.exe
+C:\projects\Csharp\Draw-with-Loops\Sunglasses\obj\Debug\Sunglasses.pdb
