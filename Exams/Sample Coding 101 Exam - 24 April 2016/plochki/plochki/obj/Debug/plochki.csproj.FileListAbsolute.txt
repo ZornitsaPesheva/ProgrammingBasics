@@ -1,0 +1,5 @@
+C:\projects\Csharp\plochki\plochki\bin\Debug\plochki.exe.config
+C:\projects\Csharp\plochki\plochki\bin\Debug\plochki.exe
+C:\projects\Csharp\plochki\plochki\bin\Debug\plochki.pdb
+C:\projects\Csharp\plochki\plochki\obj\Debug\plochki.exe
+C:\projects\Csharp\plochki\plochki\obj\Debug\plochki.pdb
