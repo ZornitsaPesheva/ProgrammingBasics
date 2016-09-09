@@ -1,0 +1,5 @@
+C:\projects\Csharp\21February2016\HungryGarfield\bin\Debug\HungryGarfield.exe.config
+C:\projects\Csharp\21February2016\HungryGarfield\bin\Debug\HungryGarfield.exe
+C:\projects\Csharp\21February2016\HungryGarfield\bin\Debug\HungryGarfield.pdb
+C:\projects\Csharp\21February2016\HungryGarfield\obj\Debug\HungryGarfield.exe
+C:\projects\Csharp\21February2016\HungryGarfield\obj\Debug\HungryGarfield.pdb
