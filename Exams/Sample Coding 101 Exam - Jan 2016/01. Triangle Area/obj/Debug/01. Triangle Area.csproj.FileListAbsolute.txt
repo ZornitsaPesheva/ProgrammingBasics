@@ -1,0 +1,6 @@
+C:\projects\Csharp\Sample Coding 101 Exam - Jan 2016\01. Triangle Area\bin\Debug\_01.Triangle_Area.exe.config
+C:\projects\Csharp\Sample Coding 101 Exam - Jan 2016\01. Triangle Area\bin\Debug\_01.Triangle_Area.exe
+C:\projects\Csharp\Sample Coding 101 Exam - Jan 2016\01. Triangle Area\bin\Debug\_01.Triangle_Area.pdb
+C:\projects\Csharp\Sample Coding 101 Exam - Jan 2016\01. Triangle Area\obj\Debug\01. Triangle Area.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Sample Coding 101 Exam - Jan 2016\01. Triangle Area\obj\Debug\_01.Triangle_Area.exe
+C:\projects\Csharp\Sample Coding 101 Exam - Jan 2016\01. Triangle Area\obj\Debug\_01.Triangle_Area.pdb
