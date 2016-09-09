@@ -1,0 +1,5 @@
+C:\projects\Csharp\Exam-Jan2016\04.PointInFigure\bin\Debug\04.PointInFigure.exe.config
+C:\projects\Csharp\Exam-Jan2016\04.PointInFigure\bin\Debug\04.PointInFigure.exe
+C:\projects\Csharp\Exam-Jan2016\04.PointInFigure\bin\Debug\04.PointInFigure.pdb
+C:\projects\Csharp\Exam-Jan2016\04.PointInFigure\obj\Debug\04.PointInFigure.exe
+C:\projects\Csharp\Exam-Jan2016\04.PointInFigure\obj\Debug\04.PointInFigure.pdb

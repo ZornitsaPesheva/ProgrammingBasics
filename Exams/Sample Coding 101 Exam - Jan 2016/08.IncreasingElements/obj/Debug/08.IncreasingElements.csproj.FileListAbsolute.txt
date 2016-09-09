@@ -1,0 +1,6 @@
+C:\projects\Csharp\Exam-Jan2016\08.IncreasingElements\bin\Debug\08.IncreasingElements.exe.config
+C:\projects\Csharp\Exam-Jan2016\08.IncreasingElements\bin\Debug\08.IncreasingElements.exe
+C:\projects\Csharp\Exam-Jan2016\08.IncreasingElements\bin\Debug\08.IncreasingElements.pdb
+C:\projects\Csharp\Exam-Jan2016\08.IncreasingElements\obj\Debug\08.IncreasingElements.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Exam-Jan2016\08.IncreasingElements\obj\Debug\08.IncreasingElements.exe
+C:\projects\Csharp\Exam-Jan2016\08.IncreasingElements\obj\Debug\08.IncreasingElements.pdb

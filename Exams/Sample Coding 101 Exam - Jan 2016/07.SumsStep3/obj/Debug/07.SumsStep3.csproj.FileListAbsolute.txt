@@ -1,0 +1,6 @@
+C:\projects\Csharp\Exam-Jan2016\07.SumsStep3\bin\Debug\07.SumsStep3.exe.config
+C:\projects\Csharp\Exam-Jan2016\07.SumsStep3\bin\Debug\07.SumsStep3.exe
+C:\projects\Csharp\Exam-Jan2016\07.SumsStep3\bin\Debug\07.SumsStep3.pdb
+C:\projects\Csharp\Exam-Jan2016\07.SumsStep3\obj\Debug\07.SumsStep3.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Exam-Jan2016\07.SumsStep3\obj\Debug\07.SumsStep3.exe
+C:\projects\Csharp\Exam-Jan2016\07.SumsStep3\obj\Debug\07.SumsStep3.pdb

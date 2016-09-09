@@ -1,0 +1,5 @@
+C:\projects\Csharp\Exam-Jan2016\12.GenerateRectangles\bin\Debug\12.GenerateRectangles.exe.config
+C:\projects\Csharp\Exam-Jan2016\12.GenerateRectangles\bin\Debug\12.GenerateRectangles.exe
+C:\projects\Csharp\Exam-Jan2016\12.GenerateRectangles\bin\Debug\12.GenerateRectangles.pdb
+C:\projects\Csharp\Exam-Jan2016\12.GenerateRectangles\obj\Debug\12.GenerateRectangles.exe
+C:\projects\Csharp\Exam-Jan2016\12.GenerateRectangles\obj\Debug\12.GenerateRectangles.pdb

@@ -1,0 +1,5 @@
+C:\projects\Csharp\Exam-Jan2016\06.Sums3Numbers\bin\Debug\06.Sums3Numbers.exe.config
+C:\projects\Csharp\Exam-Jan2016\06.Sums3Numbers\bin\Debug\06.Sums3Numbers.exe
+C:\projects\Csharp\Exam-Jan2016\06.Sums3Numbers\bin\Debug\06.Sums3Numbers.pdb
+C:\projects\Csharp\Exam-Jan2016\06.Sums3Numbers\obj\Debug\06.Sums3Numbers.exe
+C:\projects\Csharp\Exam-Jan2016\06.Sums3Numbers\obj\Debug\06.Sums3Numbers.pdb

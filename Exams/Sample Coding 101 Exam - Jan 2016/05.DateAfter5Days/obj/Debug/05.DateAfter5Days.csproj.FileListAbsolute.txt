@@ -1,0 +1,6 @@
+C:\projects\Csharp\Exam-Jan2016\05.DateAfter5Days\bin\Debug\05.DateAfter5Days.exe.config
+C:\projects\Csharp\Exam-Jan2016\05.DateAfter5Days\bin\Debug\05.DateAfter5Days.exe
+C:\projects\Csharp\Exam-Jan2016\05.DateAfter5Days\bin\Debug\05.DateAfter5Days.pdb
+C:\projects\Csharp\Exam-Jan2016\05.DateAfter5Days\obj\Debug\05.DateAfter5Days.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Exam-Jan2016\05.DateAfter5Days\obj\Debug\05.DateAfter5Days.exe
+C:\projects\Csharp\Exam-Jan2016\05.DateAfter5Days\obj\Debug\05.DateAfter5Days.pdb

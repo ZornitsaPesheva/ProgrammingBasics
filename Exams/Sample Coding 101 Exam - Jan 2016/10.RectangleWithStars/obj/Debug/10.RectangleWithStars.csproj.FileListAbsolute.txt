@@ -1,0 +1,6 @@
+C:\projects\Csharp\Exam-Jan2016\10.RectangleWithStars\bin\Debug\10.RectangleWithStars.exe.config
+C:\projects\Csharp\Exam-Jan2016\10.RectangleWithStars\bin\Debug\10.RectangleWithStars.exe
+C:\projects\Csharp\Exam-Jan2016\10.RectangleWithStars\bin\Debug\10.RectangleWithStars.pdb
+C:\projects\Csharp\Exam-Jan2016\10.RectangleWithStars\obj\Debug\10.RectangleWithStars.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Exam-Jan2016\10.RectangleWithStars\obj\Debug\10.RectangleWithStars.exe
+C:\projects\Csharp\Exam-Jan2016\10.RectangleWithStars\obj\Debug\10.RectangleWithStars.pdb

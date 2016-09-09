@@ -1,0 +1,6 @@
+C:\projects\Csharp\Exam-Jan2016\Bricks\bin\Debug\Bricks.exe.config
+C:\projects\Csharp\Exam-Jan2016\Bricks\bin\Debug\Bricks.exe
+C:\projects\Csharp\Exam-Jan2016\Bricks\bin\Debug\Bricks.pdb
+C:\projects\Csharp\Exam-Jan2016\Bricks\obj\Debug\Bricks.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Exam-Jan2016\Bricks\obj\Debug\Bricks.exe
+C:\projects\Csharp\Exam-Jan2016\Bricks\obj\Debug\Bricks.pdb

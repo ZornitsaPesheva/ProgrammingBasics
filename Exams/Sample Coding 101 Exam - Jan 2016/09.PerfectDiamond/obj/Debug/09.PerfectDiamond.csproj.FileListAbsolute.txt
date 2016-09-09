@@ -1,0 +1,6 @@
+C:\projects\Csharp\Exam-Jan2016\09.PerfectDiamond\bin\Debug\09.PerfectDiamond.exe.config
+C:\projects\Csharp\Exam-Jan2016\09.PerfectDiamond\obj\Debug\09.PerfectDiamond.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Exam-Jan2016\09.PerfectDiamond\bin\Debug\09.PerfectDiamond.exe
+C:\projects\Csharp\Exam-Jan2016\09.PerfectDiamond\bin\Debug\09.PerfectDiamond.pdb
+C:\projects\Csharp\Exam-Jan2016\09.PerfectDiamond\obj\Debug\09.PerfectDiamond.exe
+C:\projects\Csharp\Exam-Jan2016\09.PerfectDiamond\obj\Debug\09.PerfectDiamond.pdb

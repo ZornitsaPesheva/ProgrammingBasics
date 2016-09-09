@@ -1,0 +1,6 @@
+C:\projects\Csharp\Exam-Jan2016\01.TriangleArea\bin\Debug\01.TriangleArea.exe.config
+C:\projects\Csharp\Exam-Jan2016\01.TriangleArea\bin\Debug\01.TriangleArea.exe
+C:\projects\Csharp\Exam-Jan2016\01.TriangleArea\bin\Debug\01.TriangleArea.pdb
+C:\projects\Csharp\Exam-Jan2016\01.TriangleArea\obj\Debug\01.TriangleArea.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Exam-Jan2016\01.TriangleArea\obj\Debug\01.TriangleArea.exe
+C:\projects\Csharp\Exam-Jan2016\01.TriangleArea\obj\Debug\01.TriangleArea.pdb

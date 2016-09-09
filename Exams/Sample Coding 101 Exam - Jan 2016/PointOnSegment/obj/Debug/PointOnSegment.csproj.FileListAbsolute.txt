@@ -1,0 +1,5 @@
+C:\projects\Csharp\Exam-Jan2016\PointOnSegment\bin\Debug\PointOnSegment.exe.config
+C:\projects\Csharp\Exam-Jan2016\PointOnSegment\bin\Debug\PointOnSegment.exe
+C:\projects\Csharp\Exam-Jan2016\PointOnSegment\bin\Debug\PointOnSegment.pdb
+C:\projects\Csharp\Exam-Jan2016\PointOnSegment\obj\Debug\PointOnSegment.exe
+C:\projects\Csharp\Exam-Jan2016\PointOnSegment\obj\Debug\PointOnSegment.pdb
