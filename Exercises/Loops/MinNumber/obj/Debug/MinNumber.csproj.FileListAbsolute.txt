@@ -1,0 +1,6 @@
+C:\projects\Csharp\Loops\MinNumber\bin\Debug\MinNumber.exe.config
+C:\projects\Csharp\Loops\MinNumber\bin\Debug\MinNumber.exe
+C:\projects\Csharp\Loops\MinNumber\bin\Debug\MinNumber.pdb
+C:\projects\Csharp\Loops\MinNumber\obj\Debug\MinNumber.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Loops\MinNumber\obj\Debug\MinNumber.exe
+C:\projects\Csharp\Loops\MinNumber\obj\Debug\MinNumber.pdb

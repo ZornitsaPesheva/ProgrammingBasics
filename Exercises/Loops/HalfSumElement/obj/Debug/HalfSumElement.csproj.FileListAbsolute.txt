@@ -1,0 +1,6 @@
+C:\projects\Csharp\Loops\HalfSumElement\bin\Debug\HalfSumElement.exe.config
+C:\projects\Csharp\Loops\HalfSumElement\bin\Debug\HalfSumElement.exe
+C:\projects\Csharp\Loops\HalfSumElement\bin\Debug\HalfSumElement.pdb
+C:\projects\Csharp\Loops\HalfSumElement\obj\Debug\HalfSumElement.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Loops\HalfSumElement\obj\Debug\HalfSumElement.exe
+C:\projects\Csharp\Loops\HalfSumElement\obj\Debug\HalfSumElement.pdb

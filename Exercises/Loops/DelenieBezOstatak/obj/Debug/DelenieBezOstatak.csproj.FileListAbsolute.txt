@@ -1,0 +1,6 @@
+C:\projects\Csharp\Loops\DelenieBezOstatak\bin\Debug\DelenieBezOstatak.exe.config
+C:\projects\Csharp\Loops\DelenieBezOstatak\bin\Debug\DelenieBezOstatak.exe
+C:\projects\Csharp\Loops\DelenieBezOstatak\bin\Debug\DelenieBezOstatak.pdb
+C:\projects\Csharp\Loops\DelenieBezOstatak\obj\Debug\DelenieBezOstatak.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Loops\DelenieBezOstatak\obj\Debug\DelenieBezOstatak.exe
+C:\projects\Csharp\Loops\DelenieBezOstatak\obj\Debug\DelenieBezOstatak.pdb

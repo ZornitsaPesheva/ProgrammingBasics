@@ -1,0 +1,5 @@
+C:\projects\Csharp\Loops\LatinLetters\bin\Debug\LatinLetters.exe.config
+C:\projects\Csharp\Loops\LatinLetters\bin\Debug\LatinLetters.exe
+C:\projects\Csharp\Loops\LatinLetters\bin\Debug\LatinLetters.pdb
+C:\projects\Csharp\Loops\LatinLetters\obj\Debug\LatinLetters.exe
+C:\projects\Csharp\Loops\LatinLetters\obj\Debug\LatinLetters.pdb

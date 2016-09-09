@@ -1,0 +1,10 @@
+C:\projects\Csharp\Loops\TurtleGraphics\bin\Debug\TurtleGraphics.exe.config
+C:\projects\Csharp\Loops\TurtleGraphics\bin\Debug\TurtleGraphics.exe
+C:\projects\Csharp\Loops\TurtleGraphics\bin\Debug\TurtleGraphics.pdb
+C:\projects\Csharp\Loops\TurtleGraphics\bin\Debug\Nakov.TurtleGraphics.dll
+C:\projects\Csharp\Loops\TurtleGraphics\obj\Debug\TurtleGraphics.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Loops\TurtleGraphics\obj\Debug\TurtleGraphics.FormTurtleGraphics.resources
+C:\projects\Csharp\Loops\TurtleGraphics\obj\Debug\TurtleGraphics.Properties.Resources.resources
+C:\projects\Csharp\Loops\TurtleGraphics\obj\Debug\TurtleGraphics.csproj.GenerateResource.Cache
+C:\projects\Csharp\Loops\TurtleGraphics\obj\Debug\TurtleGraphics.exe
+C:\projects\Csharp\Loops\TurtleGraphics\obj\Debug\TurtleGraphics.pdb

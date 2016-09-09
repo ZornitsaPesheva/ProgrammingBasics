@@ -1,0 +1,5 @@
+C:\projects\Csharp\Loops\OddEvenPosition\bin\Debug\OddEvenPosition.exe.config
+C:\projects\Csharp\Loops\OddEvenPosition\bin\Debug\OddEvenPosition.exe
+C:\projects\Csharp\Loops\OddEvenPosition\bin\Debug\OddEvenPosition.pdb
+C:\projects\Csharp\Loops\OddEvenPosition\obj\Debug\OddEvenPosition.exe
+C:\projects\Csharp\Loops\OddEvenPosition\obj\Debug\OddEvenPosition.pdb

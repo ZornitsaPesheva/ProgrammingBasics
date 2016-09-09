@@ -1,0 +1,6 @@
+C:\projects\Csharp\Loops\OddEvenSum\bin\Debug\OddEvenSum.exe.config
+C:\projects\Csharp\Loops\OddEvenSum\bin\Debug\OddEvenSum.exe
+C:\projects\Csharp\Loops\OddEvenSum\bin\Debug\OddEvenSum.pdb
+C:\projects\Csharp\Loops\OddEvenSum\obj\Debug\OddEvenSum.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Loops\OddEvenSum\obj\Debug\OddEvenSum.exe
+C:\projects\Csharp\Loops\OddEvenSum\obj\Debug\OddEvenSum.pdb

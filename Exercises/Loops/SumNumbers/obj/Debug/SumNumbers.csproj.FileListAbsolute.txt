@@ -1,0 +1,5 @@
+C:\projects\Csharp\Loops\SumNumbers\bin\Debug\SumNumbers.exe.config
+C:\projects\Csharp\Loops\SumNumbers\bin\Debug\SumNumbers.exe
+C:\projects\Csharp\Loops\SumNumbers\bin\Debug\SumNumbers.pdb
+C:\projects\Csharp\Loops\SumNumbers\obj\Debug\SumNumbers.exe
+C:\projects\Csharp\Loops\SumNumbers\obj\Debug\SumNumbers.pdb

@@ -1,0 +1,6 @@
+C:\projects\Csharp\Loops\MaxNumber\bin\Debug\MaxNumber.exe.config
+C:\projects\Csharp\Loops\MaxNumber\bin\Debug\MaxNumber.exe
+C:\projects\Csharp\Loops\MaxNumber\bin\Debug\MaxNumber.pdb
+C:\projects\Csharp\Loops\MaxNumber\obj\Debug\MaxNumber.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Loops\MaxNumber\obj\Debug\MaxNumber.exe
+C:\projects\Csharp\Loops\MaxNumber\obj\Debug\MaxNumber.pdb

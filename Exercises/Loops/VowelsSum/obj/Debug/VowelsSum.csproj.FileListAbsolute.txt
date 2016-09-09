@@ -1,0 +1,5 @@
+C:\projects\Csharp\Loops\VowelsSum\bin\Debug\VowelsSum.exe.config
+C:\projects\Csharp\Loops\VowelsSum\bin\Debug\VowelsSum.exe
+C:\projects\Csharp\Loops\VowelsSum\bin\Debug\VowelsSum.pdb
+C:\projects\Csharp\Loops\VowelsSum\obj\Debug\VowelsSum.exe
+C:\projects\Csharp\Loops\VowelsSum\obj\Debug\VowelsSum.pdb

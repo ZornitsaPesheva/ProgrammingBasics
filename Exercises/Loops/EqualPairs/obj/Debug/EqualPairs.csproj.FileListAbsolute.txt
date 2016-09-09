@@ -1,0 +1,6 @@
+C:\projects\Csharp\Loops\EqualPairs\bin\Debug\EqualPairs.exe.config
+C:\projects\Csharp\Loops\EqualPairs\obj\Debug\EqualPairs.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Loops\EqualPairs\bin\Debug\EqualPairs.exe
+C:\projects\Csharp\Loops\EqualPairs\bin\Debug\EqualPairs.pdb
+C:\projects\Csharp\Loops\EqualPairs\obj\Debug\EqualPairs.exe
+C:\projects\Csharp\Loops\EqualPairs\obj\Debug\EqualPairs.pdb

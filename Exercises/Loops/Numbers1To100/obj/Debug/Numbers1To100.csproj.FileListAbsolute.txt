@@ -1,0 +1,6 @@
+C:\projects\Csharp\Loops\Numbers1To100\bin\Debug\Numbers1To100.exe.config
+C:\projects\Csharp\Loops\Numbers1To100\bin\Debug\Numbers1To100.exe
+C:\projects\Csharp\Loops\Numbers1To100\bin\Debug\Numbers1To100.pdb
+C:\projects\Csharp\Loops\Numbers1To100\obj\Debug\Numbers1To100.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Loops\Numbers1To100\obj\Debug\Numbers1To100.exe
+C:\projects\Csharp\Loops\Numbers1To100\obj\Debug\Numbers1To100.pdb

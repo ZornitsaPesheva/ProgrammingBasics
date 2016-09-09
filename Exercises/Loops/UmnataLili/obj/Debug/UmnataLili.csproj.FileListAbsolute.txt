@@ -1,0 +1,6 @@
+C:\projects\Csharp\Loops\UmnataLili\bin\Debug\UmnataLili.exe.config
+C:\projects\Csharp\Loops\UmnataLili\bin\Debug\UmnataLili.exe
+C:\projects\Csharp\Loops\UmnataLili\bin\Debug\UmnataLili.pdb
+C:\projects\Csharp\Loops\UmnataLili\obj\Debug\UmnataLili.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Loops\UmnataLili\obj\Debug\UmnataLili.exe
+C:\projects\Csharp\Loops\UmnataLili\obj\Debug\UmnataLili.pdb
