@@ -1,0 +1,6 @@
+C:\projects\Csharp\Programm\Programm\bin\Debug\Programm.exe.config
+C:\projects\Csharp\Programm\Programm\bin\Debug\Programm.exe
+C:\projects\Csharp\Programm\Programm\bin\Debug\Programm.pdb
+C:\projects\Csharp\Programm\Programm\obj\Debug\Programm.exe
+C:\projects\Csharp\Programm\Programm\obj\Debug\Programm.pdb
+C:\projects\Csharp\Programm\Programm\obj\Debug\Programm.csprojResolveAssemblyReference.cache
