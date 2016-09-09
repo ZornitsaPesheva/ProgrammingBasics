@@ -1,0 +1,6 @@
+C:\projects\Csharp\Complex-Conditions\Invalid_Number\bin\Debug\Invalid_Number.exe.config
+C:\projects\Csharp\Complex-Conditions\Invalid_Number\bin\Debug\Invalid_Number.exe
+C:\projects\Csharp\Complex-Conditions\Invalid_Number\bin\Debug\Invalid_Number.pdb
+C:\projects\Csharp\Complex-Conditions\Invalid_Number\obj\Debug\Invalid_Number.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Complex-Conditions\Invalid_Number\obj\Debug\Invalid_Number.exe
+C:\projects\Csharp\Complex-Conditions\Invalid_Number\obj\Debug\Invalid_Number.pdb

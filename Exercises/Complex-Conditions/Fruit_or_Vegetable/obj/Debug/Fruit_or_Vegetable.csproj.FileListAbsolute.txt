@@ -1,0 +1,6 @@
+C:\projects\Csharp\Complex-Conditions\Fruit_or_Vegetable\bin\Debug\Fruit_or_Vegetable.exe.config
+C:\projects\Csharp\Complex-Conditions\Fruit_or_Vegetable\bin\Debug\Fruit_or_Vegetable.exe
+C:\projects\Csharp\Complex-Conditions\Fruit_or_Vegetable\bin\Debug\Fruit_or_Vegetable.pdb
+C:\projects\Csharp\Complex-Conditions\Fruit_or_Vegetable\obj\Debug\Fruit_or_Vegetable.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Complex-Conditions\Fruit_or_Vegetable\obj\Debug\Fruit_or_Vegetable.exe
+C:\projects\Csharp\Complex-Conditions\Fruit_or_Vegetable\obj\Debug\Fruit_or_Vegetable.pdb

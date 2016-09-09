@@ -1,0 +1,6 @@
+C:\projects\Csharp\Complex-Conditions\Personal-Titles\bin\Debug\Personal-Titles.exe.config
+C:\projects\Csharp\Complex-Conditions\Personal-Titles\bin\Debug\Personal-Titles.exe
+C:\projects\Csharp\Complex-Conditions\Personal-Titles\bin\Debug\Personal-Titles.pdb
+C:\projects\Csharp\Complex-Conditions\Personal-Titles\obj\Debug\Personal-Titles.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Complex-Conditions\Personal-Titles\obj\Debug\Personal-Titles.exe
+C:\projects\Csharp\Complex-Conditions\Personal-Titles\obj\Debug\Personal-Titles.pdb

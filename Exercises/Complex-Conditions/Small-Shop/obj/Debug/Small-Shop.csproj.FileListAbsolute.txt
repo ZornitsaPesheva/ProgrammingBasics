@@ -1,0 +1,6 @@
+C:\projects\Csharp\Complex-Conditions\Small-Shop\bin\Debug\Small-Shop.exe.config
+C:\projects\Csharp\Complex-Conditions\Small-Shop\bin\Debug\Small-Shop.exe
+C:\projects\Csharp\Complex-Conditions\Small-Shop\bin\Debug\Small-Shop.pdb
+C:\projects\Csharp\Complex-Conditions\Small-Shop\obj\Debug\Small-Shop.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Complex-Conditions\Small-Shop\obj\Debug\Small-Shop.exe
+C:\projects\Csharp\Complex-Conditions\Small-Shop\obj\Debug\Small-Shop.pdb

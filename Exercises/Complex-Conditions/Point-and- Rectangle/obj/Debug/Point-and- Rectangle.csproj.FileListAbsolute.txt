@@ -1,0 +1,9 @@
+C:\projects\Csharp\Complex-Conditions\Point-and- Rectangle\bin\Debug\Point-and- Rectangle.exe.config
+C:\projects\Csharp\Complex-Conditions\Point-and- Rectangle\bin\Debug\Point-and- Rectangle.exe
+C:\projects\Csharp\Complex-Conditions\Point-and- Rectangle\bin\Debug\Point-and- Rectangle.pdb
+C:\projects\Csharp\Complex-Conditions\Point-and- Rectangle\obj\Debug\Point-and- Rectangle.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Complex-Conditions\Point-and- Rectangle\obj\Debug\Point_and__Rectangle.FormPointAndRectangle.resources
+C:\projects\Csharp\Complex-Conditions\Point-and- Rectangle\obj\Debug\Point_and__Rectangle.Properties.Resources.resources
+C:\projects\Csharp\Complex-Conditions\Point-and- Rectangle\obj\Debug\Point-and- Rectangle.csproj.GenerateResource.Cache
+C:\projects\Csharp\Complex-Conditions\Point-and- Rectangle\obj\Debug\Point-and- Rectangle.exe
+C:\projects\Csharp\Complex-Conditions\Point-and- Rectangle\obj\Debug\Point-and- Rectangle.pdb

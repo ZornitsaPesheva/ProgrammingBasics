@@ -1,0 +1,6 @@
+C:\projects\Csharp\Complex-Conditions\On_Time_for_the_Exam\bin\Debug\On_Time_for_the_Exam.exe.config
+C:\projects\Csharp\Complex-Conditions\On_Time_for_the_Exam\obj\Debug\On_Time_for_the_Exam.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Complex-Conditions\On_Time_for_the_Exam\bin\Debug\On_Time_for_the_Exam.exe
+C:\projects\Csharp\Complex-Conditions\On_Time_for_the_Exam\bin\Debug\On_Time_for_the_Exam.pdb
+C:\projects\Csharp\Complex-Conditions\On_Time_for_the_Exam\obj\Debug\On_Time_for_the_Exam.exe
+C:\projects\Csharp\Complex-Conditions\On_Time_for_the_Exam\obj\Debug\On_Time_for_the_Exam.pdb

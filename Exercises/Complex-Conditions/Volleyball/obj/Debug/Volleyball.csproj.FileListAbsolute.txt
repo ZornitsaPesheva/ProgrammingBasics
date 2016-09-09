@@ -1,0 +1,6 @@
+C:\projects\Csharp\Complex-Conditions\Volleyball\bin\Debug\Volleyball.exe.config
+C:\projects\Csharp\Complex-Conditions\Volleyball\obj\Debug\Volleyball.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Complex-Conditions\Volleyball\bin\Debug\Volleyball.exe
+C:\projects\Csharp\Complex-Conditions\Volleyball\bin\Debug\Volleyball.pdb
+C:\projects\Csharp\Complex-Conditions\Volleyball\obj\Debug\Volleyball.exe
+C:\projects\Csharp\Complex-Conditions\Volleyball\obj\Debug\Volleyball.pdb

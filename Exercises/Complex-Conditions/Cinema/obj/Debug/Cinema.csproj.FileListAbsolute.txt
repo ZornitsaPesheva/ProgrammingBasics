@@ -1,0 +1,6 @@
+C:\projects\Csharp\Complex-Conditions\Cinema\bin\Debug\Cinema.exe.config
+C:\projects\Csharp\Complex-Conditions\Cinema\bin\Debug\Cinema.exe
+C:\projects\Csharp\Complex-Conditions\Cinema\bin\Debug\Cinema.pdb
+C:\projects\Csharp\Complex-Conditions\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Complex-Conditions\Cinema\obj\Debug\Cinema.exe
+C:\projects\Csharp\Complex-Conditions\Cinema\obj\Debug\Cinema.pdb

@@ -1,0 +1,6 @@
+C:\projects\Csharp\Complex-Conditions\Pateshestvie\bin\Debug\Pateshestvie.exe.config
+C:\projects\Csharp\Complex-Conditions\Pateshestvie\obj\Debug\Pateshestvie.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Complex-Conditions\Pateshestvie\bin\Debug\Pateshestvie.exe
+C:\projects\Csharp\Complex-Conditions\Pateshestvie\bin\Debug\Pateshestvie.pdb
+C:\projects\Csharp\Complex-Conditions\Pateshestvie\obj\Debug\Pateshestvie.exe
+C:\projects\Csharp\Complex-Conditions\Pateshestvie\obj\Debug\Pateshestvie.pdb

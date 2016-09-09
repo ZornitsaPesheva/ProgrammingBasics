@@ -1,0 +1,6 @@
+C:\projects\Csharp\Complex-Conditions\Point _n_the_Figure\bin\Debug\Point _n_the_Figure.exe.config
+C:\projects\Csharp\Complex-Conditions\Point _n_the_Figure\bin\Debug\Point _n_the_Figure.exe
+C:\projects\Csharp\Complex-Conditions\Point _n_the_Figure\bin\Debug\Point _n_the_Figure.pdb
+C:\projects\Csharp\Complex-Conditions\Point _n_the_Figure\obj\Debug\Point _n_the_Figure.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Complex-Conditions\Point _n_the_Figure\obj\Debug\Point _n_the_Figure.exe
+C:\projects\Csharp\Complex-Conditions\Point _n_the_Figure\obj\Debug\Point _n_the_Figure.pdb

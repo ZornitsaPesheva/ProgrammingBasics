@@ -1,0 +1,5 @@
+C:\projects\Csharp\Complex-Conditions\Fruit_Shop\bin\Debug\Fruit_Shop.exe.config
+C:\projects\Csharp\Complex-Conditions\Fruit_Shop\bin\Debug\Fruit_Shop.exe
+C:\projects\Csharp\Complex-Conditions\Fruit_Shop\bin\Debug\Fruit_Shop.pdb
+C:\projects\Csharp\Complex-Conditions\Fruit_Shop\obj\Debug\Fruit_Shop.exe
+C:\projects\Csharp\Complex-Conditions\Fruit_Shop\obj\Debug\Fruit_Shop.pdb

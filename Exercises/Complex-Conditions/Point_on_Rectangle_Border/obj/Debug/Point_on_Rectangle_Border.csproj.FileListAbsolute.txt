@@ -1,0 +1,5 @@
+C:\projects\Csharp\Complex-Conditions\Point_on_Rectangle_Border\bin\Debug\Point_on_Rectangle_Border.exe.config
+C:\projects\Csharp\Complex-Conditions\Point_on_Rectangle_Border\bin\Debug\Point_on_Rectangle_Border.exe
+C:\projects\Csharp\Complex-Conditions\Point_on_Rectangle_Border\bin\Debug\Point_on_Rectangle_Border.pdb
+C:\projects\Csharp\Complex-Conditions\Point_on_Rectangle_Border\obj\Debug\Point_on_Rectangle_Border.exe
+C:\projects\Csharp\Complex-Conditions\Point_on_Rectangle_Border\obj\Debug\Point_on_Rectangle_Border.pdb

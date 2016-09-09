@@ -1,0 +1,6 @@
+C:\projects\Csharp\Complex-Conditions\Point_in_Rectangle\bin\Debug\Point_in_Rectangle.exe.config
+C:\projects\Csharp\Complex-Conditions\Point_in_Rectangle\bin\Debug\Point_in_Rectangle.exe
+C:\projects\Csharp\Complex-Conditions\Point_in_Rectangle\bin\Debug\Point_in_Rectangle.pdb
+C:\projects\Csharp\Complex-Conditions\Point_in_Rectangle\obj\Debug\Point_in_Rectangle.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Complex-Conditions\Point_in_Rectangle\obj\Debug\Point_in_Rectangle.exe
+C:\projects\Csharp\Complex-Conditions\Point_in_Rectangle\obj\Debug\Point_in_Rectangle.pdb

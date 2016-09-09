@@ -1,0 +1,6 @@
+C:\projects\Csharp\Complex-Conditions\Day_of_Week\bin\Debug\Day_of_Week.exe.config
+C:\projects\Csharp\Complex-Conditions\Day_of_Week\bin\Debug\Day_of_Week.exe
+C:\projects\Csharp\Complex-Conditions\Day_of_Week\bin\Debug\Day_of_Week.pdb
+C:\projects\Csharp\Complex-Conditions\Day_of_Week\obj\Debug\Day_of_Week.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Complex-Conditions\Day_of_Week\obj\Debug\Day_of_Week.exe
+C:\projects\Csharp\Complex-Conditions\Day_of_Week\obj\Debug\Day_of_Week.pdb

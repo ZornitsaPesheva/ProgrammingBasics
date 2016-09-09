@@ -1,0 +1,6 @@
+C:\projects\Csharp\Complex-Conditions\Operations_between_numbers\bin\Debug\Operations_between_numbers.exe.config
+C:\projects\Csharp\Complex-Conditions\Operations_between_numbers\obj\Debug\Operations_between_numbers.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\Complex-Conditions\Operations_between_numbers\bin\Debug\Operations_between_numbers.exe
+C:\projects\Csharp\Complex-Conditions\Operations_between_numbers\bin\Debug\Operations_between_numbers.pdb
+C:\projects\Csharp\Complex-Conditions\Operations_between_numbers\obj\Debug\Operations_between_numbers.exe
+C:\projects\Csharp\Complex-Conditions\Operations_between_numbers\obj\Debug\Operations_between_numbers.pdb
